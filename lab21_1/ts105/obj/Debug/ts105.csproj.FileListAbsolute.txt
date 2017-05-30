@@ -1,0 +1,17 @@
+C:\git\lab6\ts105\ts105\bin\Debug\ts105.exe.config
+C:\git\lab6\ts105\ts105\obj\Debug\ts105.Form1.resources
+C:\git\lab6\ts105\ts105\obj\Debug\ts105.Properties.Resources.resources
+C:\git\lab6\ts105\ts105\obj\Debug\ts105.csproj.GenerateResource.Cache
+C:\git\lab6\ts105\ts105\bin\Debug\ts105.exe
+C:\git\lab6\ts105\ts105\bin\Debug\ts105.pdb
+C:\git\lab6\ts105\ts105\bin\Debug\AForge.Video.DirectShow.dll
+C:\git\lab6\ts105\ts105\bin\Debug\AForge.Video.dll
+C:\git\lab6\ts105\ts105\bin\Debug\AForge.dll
+C:\git\lab6\ts105\ts105\bin\Debug\AForge.Video.xml
+C:\git\lab6\ts105\ts105\bin\Debug\AForge.Video.DirectShow.xml
+C:\git\lab6\ts105\ts105\bin\Debug\AForge.xml
+C:\git\lab6\ts105\ts105\obj\Debug\ts105.exe
+C:\git\lab6\ts105\ts105\obj\Debug\ts105.pdb
+C:\git\oxforceservices\lab21_1\ts105\bin\Debug\ts105.exe.config
+C:\git\oxforceservices\lab21_1\ts105\obj\Debug\ts105.exe
+C:\git\oxforceservices\lab21_1\ts105\obj\Debug\ts105.pdb
