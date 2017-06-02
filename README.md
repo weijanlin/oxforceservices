@@ -1,6 +1,6 @@
 # README #
 
-分多階段
+* 分多階段
 * lab11:Oxforce 服務上傳相片偵測年齡
 * lab12:Oxforce 服務上傳相片偵測心情
 * lab13:人臉ID 視別寫入資料庫
