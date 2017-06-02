@@ -1,11 +1,11 @@
 # README #
 
 * 分多階段
-* lab11:Oxforce 服務上傳相片偵測年齡
-* lab12:Oxforce 服務上傳相片偵測心情
-* lab13:人臉ID 視別寫入資料庫
-* lab21:偵測CCD (視訊鏡頭)
-* lab22:OpenCV抓人臉相片
+* lab11:Oxforce 服務上傳相片偵測年齡 OK
+* lab12:Oxforce 服務上傳相片偵測心情 OK
+* lab13:人臉ID 視別寫入資料庫 OK 不清楚寫入資料庫是指什麼
+* lab21:偵測CCD (視訊鏡頭) OK (未單獨抽出)
+* lab22:OpenCV抓人臉相片 OK (未單獨抽出)
 * lab31:偵測聲音ID
 * lab32:偵測聲音寫入資料庫
 * lab33:偵測聲音判斷是否同一人,讀寫資料庫
