@@ -92,7 +92,7 @@ namespace Lab11
         {
             //設定輸出資訊
             status.Content +=
-                "年齡：" + faceInfo.FaceAttributes.Age +
+                "\n年齡：" + faceInfo.FaceAttributes.Age +
                 "\n性別：" + (faceInfo.FaceAttributes.Gender == "male" ? "男" : "女") +
                 "\n鬍子濃度：" + faceInfo.FaceAttributes.FacialHair.Moustache +
                 "\n生氣程度：" + faceInfo.FaceAttributes.Emotion.Anger + "\n\n";
