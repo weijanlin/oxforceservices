@@ -1,8 +1,8 @@
 # README #
 
 分多階段  
-lab11:Oxforce 服務上傳相片偵測年齡 WCF
-lab11-1:Oxforce 服務上傳相片偵測年齡 Windows Application
+lab11:Oxforce 服務上傳相片偵測年齡 WCF  
+lab11-1:Oxforce 服務上傳相片偵測年齡 Windows Application  
 lab12:Oxforce 服務上傳相片偵測心情 
 lab13:人臉ID 視別寫入資料庫  
 lab21:偵測CCD (視訊鏡頭)  
