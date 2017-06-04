@@ -44,7 +44,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(139, 609);
+            this.button1.Location = new System.Drawing.Point(115, 637);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(148, 43);
             this.button1.TabIndex = 0;
@@ -102,9 +102,9 @@
             this.label1.Font = new System.Drawing.Font("新細明體", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
             this.label1.Location = new System.Drawing.Point(12, 19);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(46, 16);
+            this.label1.Size = new System.Drawing.Size(40, 16);
             this.label1.TabIndex = 3;
-            this.label1.Text = "label1";
+            this.label1.Text = "資訊";
             // 
             // label2
             // 
