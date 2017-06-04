@@ -15,3 +15,8 @@ C:\git\lab6\ts105\ts105\obj\Debug\ts105.pdb
 C:\git\oxforceservices\lab21_1\ts105\bin\Debug\ts105.exe.config
 C:\git\oxforceservices\lab21_1\ts105\obj\Debug\ts105.exe
 C:\git\oxforceservices\lab21_1\ts105\obj\Debug\ts105.pdb
+C:\Users\HardAnonymous\oxforceservices\lab21_1\ts105\obj\Debug\ts105.csprojResolveAssemblyReference.cache
+C:\Users\HardAnonymous\oxforceservices\lab21_1\ts105\obj\Debug\ts105.Form1.resources
+C:\Users\HardAnonymous\oxforceservices\lab21_1\ts105\obj\Debug\ts105.Properties.Resources.resources
+C:\Users\HardAnonymous\oxforceservices\lab21_1\ts105\obj\Debug\ts105.csproj.GenerateResource.Cache
+C:\Users\HardAnonymous\oxforceservices\lab21_1\ts105\bin\Debug\ts105.exe.config
