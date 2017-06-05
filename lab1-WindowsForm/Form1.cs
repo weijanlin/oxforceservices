@@ -29,8 +29,9 @@ namespace lab1_WindowsForm
             string imgPath = null;
             try
             {
+                this.listView1.Items.Clear();
                 imgPath = this.GetImageFilePath();
-                this.label1.Text = imgPath;
+                this.label1.Text = "從" + imgPath + "偵測中....";
             }
             catch(ArgumentNullException)
             {
